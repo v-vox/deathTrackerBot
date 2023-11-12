@@ -65,7 +65,7 @@ async def printmsg():
 #     if message.content.startswith("!addPlayer")
 
 
-BOT_TOKEN = "MTE3MTA4NTIxOTk0ODkyMDg4Mg.G8gQCA.MAhlmZ7ZpXzwWgs9z3l5a-ySQXojVt4C_1aDvE"
+BOT_TOKEN = 
 client.run(BOT_TOKEN)
 
 
