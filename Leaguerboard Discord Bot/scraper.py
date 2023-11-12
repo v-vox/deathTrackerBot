@@ -13,7 +13,7 @@ headers = {
 	"Origin": "https://developer.riotgames.com"
 }
 
-key = 'RGAPI-ceda7e1d-eab4-49af-9f8f-5762ce371270'
+key = 
 
 #funcs
 
